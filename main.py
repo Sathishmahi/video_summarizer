@@ -8,8 +8,8 @@ import cv2
 from PIL import Image
 import os
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyC_MhUltoQWK2qNDMppra1ppDNc7S2SnmM"
-os.environ["AAI_API_KEY"] = "56629bfaf3334d1db67811af2ca33686"
+os.environ["GOOGLE_API_KEY"] = ""
+os.environ["AAI_API_KEY"] = ""
 
 
 AUDIO_DIR_NAME = "audio"
