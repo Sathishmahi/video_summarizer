@@ -1,0 +1,7 @@
+streamlit
+Pytube
+opencv-python
+google-generativeai
+moviepy
+assemblyai[extras]
+gtts
