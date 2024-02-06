@@ -133,7 +133,6 @@ def download_youtube_video(video_url,audio_or_video="audio"):
 def get_content(audio_path:str):
 
     os.environ["AAI_API_KEY"] 
-    # aai.settings.api_key = "56629bfaf3334d1db67811af2ca33686"
     aai.settings.api_key = aai_api_key
     transcriber = aai.Transcriber()
 
